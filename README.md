@@ -74,3 +74,5 @@ The app supports session-based chats, a collapsible left sidebar with session hi
 <img width="1926" height="975" alt="Screenshot_1" src="https://github.com/user-attachments/assets/3d6d1b3f-0cdb-4383-b58b-1563371964eb" />
 
 <img width="1916" height="981" alt="Screenshot_2" src="https://github.com/user-attachments/assets/e53f91b9-9afe-487d-82f4-d1e2cea5c4be" />
+
+https://github.com/user-attachments/assets/02657221-e79a-4543-bda5-9df5563aafb4
